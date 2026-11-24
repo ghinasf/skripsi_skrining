@@ -22,5 +22,5 @@ Aplikasi web skrining tingkat risiko kehamilan berbasis **Certainty Factor** yan
 
 1. **Clone repository**
    ```bash
-   git clone <URL_REPOSITORY_GITHUB_KAMU>
-   cd skripsi_skrining
+   git clone https://github.com/ghinasf/skripsi_skrining.git
+cd skripsi_skrining
